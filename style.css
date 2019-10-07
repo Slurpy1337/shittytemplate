@@ -1,0 +1,285 @@
+
+
+.nav-link
+{
+    margin-left: 0%;
+}
+
+.collapse .navbar-collapse
+{
+    margin-left: 500%;
+}
+.text
+{
+    font-size: 300%;
+    margin-top: 50%;
+    font-family: 'Barlow', sans-serif;
+    color: black;
+    
+}
+.texte
+{
+    
+    margin-top: 40%;
+    
+}
+.imagelol
+{
+    
+    margin-top: 18%;
+}
+
+
+nav a:hover {
+    text-decoration: underline;
+}
+.btn .btn-outline-success
+{
+    margin-top: 4%;
+}
+rd-navbar-main-element
+{
+    margin-left: 40%;
+}
+
+/* ---- reset ---- */ body{ margin:0; font:normal 75% Arial, Helvetica, sans-serif; } canvas{ display: block; vertical-align: bottom; } /* ---- particles.js container ---- */ #particles-js{ position:absolute; width: 100%; height: 100%; background-color: #ffffff; background-image: url(""); background-repeat: no-repeat; background-size: cover; background-position: 50% 50%; } /* ---- stats.js ---- */ .count-particles{ background: #000022; position: absolute; top: 48px; left: 0; width: 80px; color: #13E8E9; font-size: .8em; text-align: left; text-indent: 4px; line-height: 14px; padding-bottom: 2px; font-family: Helvetica, Arial, sans-serif; font-weight: bold; } .js-count-particles{ font-size: 1.1em; } #stats, .count-particles{ -webkit-user-select: none; margin-top: 5px; margin-left: 5px; } #stats{ border-radius: 3px 3px 0 0; overflow: hidden; } .count-particles{ border-radius: 0 0 3px 3px; }
+
+.brain
+{
+    margin-top: 25%;
+    margin-left: 0%;
+}
+
+.button-shadow {
+    box-shadow: 0 8px 32px rgba(31,222,130,.46);
+}
+.button-primary, .button-primary:focus {
+    color: #fff;
+    background-color: #1fde82;
+    border-color: #1fde82;
+}
+.button {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    padding: 11px 20px;
+    font-size: 14px;
+    line-height: 17px;
+    border: 1px solid;
+        border-top-color: currentcolor;
+        border-right-color: currentcolor;
+        border-bottom-color: currentcolor;
+        border-left-color: currentcolor;
+    font-family: roboto,sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    border-radius: 4px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-align: center;
+    cursor: pointer;
+    vertical-align: middle;
+    user-select: none;
+    transition: 250ms all ease-in-out;
+}
+.button-group > * {
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+a, a:focus, a:active {
+    color: #1fde82;
+}
+a, a:focus, a:active, a:hover {
+    text-decoration: none;
+}
+a {
+    transition: all .3s ease-in-out;
+}
+a {
+    color: #1fde82;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+*, ::before, ::after {
+    box-sizing: border-box;
+}
+element {
+    visibility: visible;
+}
+body {
+    font-family: roboto,sans-serif;
+    font-size: 14px;
+    line-height: 1.78571;
+    font-weight: 300;
+    color: #5d6678;
+    -webkit-text-size-adjust: none;
+}
+body {
+    font-family: roboto,sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 1.78571;
+    color: #5d6678;
+    text-align: left;
+}
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+
+}
+
+.button-link.button-video, .button-link.button-video:focus, .button-link.button-video:active {
+    color: #5d6678;
+}
+.button-link {
+    display: inline-flex;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 1;
+    font-weight: 500;
+    
+}
+.button-link:hover
+{
+    font-size: 110%;
+    
+}
+.button-group > * {
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+a, a:focus, a:active {
+    color: #1fde82;
+}
+a, a:focus, a:active, a:hover {
+    text-decoration: none;
+}
+a {
+    transition: all .3s ease-in-out;
+}
+a {
+    color: #1fde82;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+*, ::before, ::after {
+    box-sizing: border-box;
+}
+.button-link.button-video .icon {
+    margin-top: -2px;
+    margin-left: 12px;
+    width: 36px;
+    height: 36px;
+    font-size: 12px;
+    line-height: 34px;
+    text-align: center;
+    border-radius: 50%;
+    border: 1px solid #dcdfe5;
+    transition: 250ms all ease-in-out;
+}
+.button-link .icon {
+    margin-left: 10px;
+    font-size: 12px;
+}
+.icon {
+    display: inline-block;
+    font-size: 16px;
+    line-height: 1;
+}
+*, ::before, ::after {
+    box-sizing: border-box;
+}
+.button-link.button-video, .button-link.button-video:focus, .button-link.button-video:active {
+    color: #5d6678;
+}
+.button-link {
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 1;
+    font-weight: 500;
+}
+a, a:focus, a:active {
+    color: #1fde82;
+}
+a {
+    color: #1fde82;
+}
+element {
+    visibility: visible;
+}
+.bg-default:not([style*="background-"]) + .bg-default:not([style*="background-"]) {
+    padding-top: 0;
+}
+.bg-default {
+    background-color: #fff;
+}
+.section-decoration-2 {
+    position: relative;
+}
+.section-lg {
+    padding: 115px 0;
+        padding-top: 115px;
+}
+.section-lg {
+    padding: 100px 0;
+}
+.section-lg {
+    padding: 85px 0;
+}
+.section-lg {
+    padding: 85px 0;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+*, ::before, ::after {
+    box-sizing: border-box;
+}
+body {
+    font-family: roboto,sans-serif;
+    font-size: 14px;
+    line-height: 1.78571;
+    font-weight: 300;
+    color: #5d6678;
+    -webkit-text-size-adjust: none;
+}
+body {
+    font-family: roboto,sans-serif;
+    font-size: 1rem;
+    font-weight: 300;
+    line-height: 1.78571;
+    color: #5d6678;
+    text-align: left;
+}
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+}
+.nt
+{
+    color: black;
+    margin-top: 5%;
+    margin-right: 15%;
+}
+.column:hover
+{
+    box-shadow: 0px 0px 9px black;
+    transition:  0.5s ease-out;
+}
+.column
+{
+    margin-bottom: 10%;
+}
+.ggs
+{
+    background-color: #2570ff;
+}
+.box1
+{
+    color: white;
+}
